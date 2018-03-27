@@ -1,0 +1,125 @@
+.comic {
+  width: 350px;
+  height: 500px;
+
+}
+
+body {
+background-color: #F2DB9E;
+background-image: url("../img/Background-9.png")
+}
+.jumbotron {
+  background-color: #F2DB9E;
+  background-attachment: fixed;
+  background-image: url("../img/dailyprophet.jpg");
+
+
+
+
+}
+
+.col-md-4 {
+  background-color: #E9DDBB;
+  border-style: double;
+  border-color: #644F11;
+  margin: 0px;
+
+}
+
+@font-face {
+  font-family: muggleNews;
+  src: url("../fonts/mugglenews.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: headoh;
+  src: url("../fonts/headof.TTF");
+}
+@font-face {
+  font-family: headth;
+  src: url("../fonts/HEADTH_.TTF");
+}
+@font-face {
+  font-family: harryP;
+  src: url("../fonts/HARRYP.TTF");
+}
+
+h2 {
+  font-family: "headoh", Arial, sans-serif;
+  font-size: 36px;
+  letter-spacing: 1px;
+}
+
+ h1 {
+  font-family: "Augusta", Arial, sans-serif;
+  font-size: 60px;
+  border-style: double;
+  font-stretch: expanded;
+  background-color: #E9DDBB;
+  text-align: center;
+  background-image: url("../img/lights.jpg");
+  color: #faf8f1;
+  text-shadow: 2px 2px #2E2C25;
+  padding: 50px;
+
+}
+.navbar-brand {
+  font-family: "blackcastle", sans-serif;
+  text-shadow: 3px 3px #990000;
+  font-size: 20px;
+}
+
+footer {
+  background-image: url("../img/Ministry.jpg");
+  padding: 300px;
+  color: #faf8f1;
+  text-align: left;
+
+}
+
+@font-face {
+  font-family: blackcastle;
+  src: url("../fonts/BlackCastleMF.ttf");
+}
+@font-face {
+  font-family: Augusta;
+  src: url("../fonts/Augusta.ttf");
+}
+p {
+  font-family: "muggleNews";
+  font-size: 15px;
+}
+.thumb {
+  padding:15px;
+  width: 150px;
+  height: 150px;
+  border: double;
+  float: right;
+  background-image: url("../img/blkbackground.jpg");
+  background-color: #A39A82;
+}
+
+.tesla {
+  float: right;
+  width: 350px;
+  border: double;
+  padding: 10px;
+  margin: 15px;
+}
+.crups {
+  float: right;
+  width: 250px;
+  display: inline;
+  border: double;
+  padding: 10px;
+  margin: 15px;
+}
+.author {
+  font-family: cursive;
+  font-size: 14px;
+  display: inline-block;
+}
+
+li {
+  display: inline-block;
+}
