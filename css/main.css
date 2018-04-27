@@ -174,3 +174,34 @@ li {
   display: inline-block;
 
 }
+
+a.anchor{
+  display: block;
+  position: relative;
+  top: -400px;
+  visibility: hidden;
+}
+#hideMe{
+  width:76px;
+  height: 34px;
+}
+
+#newsPaper{
+  display:none;
+}
+#all_done{
+  display:none;
+  width: 677px;
+  height: 847px;
+  margin: 40px 300px 500px 600px;
+
+  background-color: black;
+}
+#white{
+  display:none;
+  width:1904px;
+}
+.cover_page{
+  width: 1700px;
+  margin:10px 110px;
+}
