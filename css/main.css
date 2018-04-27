@@ -200,8 +200,9 @@ a.anchor{
 #white{
   display:none;
   width:1904px;
+  margin: -124px 0px;
 }
 .cover_page{
   width: 1700px;
-  margin:10px 110px;
+  margin:-50px 104px;
 }
