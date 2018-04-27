@@ -27,7 +27,7 @@ $(document).ready(function() {
     $('#all_done').show('fast', function() {
       console.log("Two");
     });
-    $('#all_done').delay(800).hide('fast', function() {
+    $('#all_done').delay(1000).hide('fast', function() {
       console.log("Three");
 
     });
